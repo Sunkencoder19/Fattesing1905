@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Fattesing1905
+- 👋 Hi, I’m @Sunkencoder19
 - 👀 I’m interested in ...python programming and web develeopment
-- 🌱 I’m currently learning ...python along with CSS and HTml
+- 🌱 I’m currently learning ...python along with CSS and HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...cypher1906@gmail.com
 - 😄 Pronouns: ...He/Him
