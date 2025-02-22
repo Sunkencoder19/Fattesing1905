@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...cypher1906@gmail.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... Sometimes you will find me alot diplomatic because I love to debate..
 
 <!---
 Fattesing1905/Fattesing1905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
